@@ -1,0 +1,22 @@
+{
+  "name": "MarkdownEditor",
+  "version": "1.0.0",
+  "description": "Markdown to HTML converter",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron .",
+    "build": "electron-packager . MarkdownEditor --out=\"build\" --asar",
+    "build-with-icon": "electron-packager . MarkdownEditor --out=\"build\" icon=\"icon.ico\" --asar",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Aman Khandelwal",
+  "license": "MIT",
+  "dependencies": {
+    "electron": "^2.0.10",
+    "marked": "^0.5.0"
+  },
+  "devDependencies": {
+    "devtron": "^1.4.0",
+    "electron-packager": "^12.1.2"
+  }
+}

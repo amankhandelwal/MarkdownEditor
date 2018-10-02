@@ -1,0 +1,12 @@
+Reviewing the Electron developer landscape, Steve reviews helpful modules and libraries to help integrate Electron to students' workflow.
+https://github.com/electron-userland/electron-prebuilt-compile
+https://github.com/electron/electron-compile
+https://www.npmjs.com/package/electron-osx-appearance
+https://www.npmjs.com/package/auto-launch
+https://www.npmjs.com/package/electron-sudo
+https://www.npmjs.com/package/electron-localshortcut
+https://www.npmjs.com/package/babel-preset-electron
+https://github.com/hardchor/electron-redux
+https://github.com/felixrieseberg/ember-electron
+https://electron.atom.io/spectron/
+https://github.com/sindresorhus/awesome-electron
